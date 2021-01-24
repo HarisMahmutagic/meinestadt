@@ -46,7 +46,7 @@
 
 <script>
 import UnlogedHeader from "../components/UnlogedHeader.vue";
-
+//ss
 export default {
   name: "Login",
   components: {
